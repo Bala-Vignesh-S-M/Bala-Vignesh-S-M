@@ -10,6 +10,6 @@
 -  📍 Currently student at PSG Tech, Coimbatore.
 - 🔭 Currently interested in ML, Web development & DBMS.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bala-vignesh-1330631a8/) , [MailTo](mailto:vicky.bala.mg2002@gmail.com).
-<!-- - 📁 Find More About Me Here : [Click Here](https://Hafiz408.github.io/) -->
+<!-- - 📁 Find More About Me Here : [Click Here](https://Bala-Vignesh-S-M.github.io/) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bala-Vignesh-S-M&layout=compact&theme=dark&hide_border=true&langs_count=9&hide=javascript)](https://github.com/Bala-Vignesh-S-M)
